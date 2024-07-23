@@ -1,0 +1,250 @@
+[
+    {
+        "slice_nr": 0,
+        "step_label": "rectal_artery_vein"
+    },
+    {
+        "slice_nr": 1,
+        "step_label": "suturing"
+    },
+    {
+        "slice_nr": 2,
+        "step_label": "suturing"
+    },
+    {
+        "slice_nr": 3,
+        "step_label": "range_of_motion"
+    },
+    {
+        "slice_nr": 4,
+        "step_label": "range_of_motion"
+    },
+    {
+        "slice_nr": 5,
+        "step_label": "suturing"
+    },
+    {
+        "slice_nr": 6,
+        "step_label": "rectal_artery_vein"
+    },
+    {
+        "slice_nr": 7,
+        "step_label": "skills_application"
+    },
+    {
+        "slice_nr": 8,
+        "step_label": "suturing"
+    },
+    {
+        "slice_nr": 9,
+        "step_label": "range_of_motion"
+    },
+    {
+        "slice_nr": 10,
+        "step_label": "range_of_motion"
+    },
+    {
+        "slice_nr": 11,
+        "step_label": "range_of_motion"
+    },
+    {
+        "slice_nr": 12,
+        "step_label": "rectal_artery_vein"
+    },
+    {
+        "slice_nr": 13,
+        "step_label": "uterine_hornother"
+    },
+    {
+        "slice_nr": 14,
+        "step_label": "skills_application"
+    },
+    {
+        "slice_nr": 15,
+        "step_label": "retraction_collision_avoidance"
+    },
+    {
+        "slice_nr": 16,
+        "step_label": "rectal_artery_vein"
+    },
+    {
+        "slice_nr": 17,
+        "step_label": "rectal_artery_vein"
+    },
+    {
+        "slice_nr": 18,
+        "step_label": "suturing"
+    },
+    {
+        "slice_nr": 19,
+        "step_label": "skills_application"
+    },
+    {
+        "slice_nr": 20,
+        "step_label": "suspensory_ligaments"
+    },
+    {
+        "slice_nr": 21,
+        "step_label": "retraction_collision_avoidance"
+    },
+    {
+        "slice_nr": 22,
+        "step_label": "rectal_artery_vein"
+    },
+    {
+        "slice_nr": 23,
+        "step_label": "retraction_collision_avoidance"
+    },
+    {
+        "slice_nr": 24,
+        "step_label": "suspensory_ligaments"
+    },
+    {
+        "slice_nr": 25,
+        "step_label": "suspensory_ligaments"
+    },
+    {
+        "slice_nr": 26,
+        "step_label": "uterine_hornother"
+    },
+    {
+        "slice_nr": 27,
+        "step_label": "rectal_artery_vein"
+    },
+    {
+        "slice_nr": 28,
+        "step_label": "suturing"
+    },
+    {
+        "slice_nr": 29,
+        "step_label": "rectal_artery_vein"
+    },
+    {
+        "slice_nr": 30,
+        "step_label": "uterine_hornother"
+    },
+    {
+        "slice_nr": 31,
+        "step_label": "suturing"
+    },
+    {
+        "slice_nr": 32,
+        "step_label": "retraction_collision_avoidance"
+    },
+    {
+        "slice_nr": 33,
+        "step_label": "uterine_hornother"
+    },
+    {
+        "slice_nr": 34,
+        "step_label": "suspensory_ligaments"
+    },
+    {
+        "slice_nr": 35,
+        "step_label": "retraction_collision_avoidance"
+    },
+    {
+        "slice_nr": 36,
+        "step_label": "uterine_hornother"
+    },
+    {
+        "slice_nr": 37,
+        "step_label": "range_of_motion"
+    },
+    {
+        "slice_nr": 38,
+        "step_label": "range_of_motion"
+    },
+    {
+        "slice_nr": 39,
+        "step_label": "suspensory_ligaments"
+    },
+    {
+        "slice_nr": 40,
+        "step_label": "rectal_artery_vein"
+    },
+    {
+        "slice_nr": 41,
+        "step_label": "suspensory_ligaments"
+    },
+    {
+        "slice_nr": 42,
+        "step_label": "suturing"
+    },
+    {
+        "slice_nr": 43,
+        "step_label": "uterine_hornother"
+    },
+    {
+        "slice_nr": 44,
+        "step_label": "suturing"
+    },
+    {
+        "slice_nr": 45,
+        "step_label": "uterine_hornother"
+    },
+    {
+        "slice_nr": 46,
+        "step_label": "range_of_motion"
+    },
+    {
+        "slice_nr": 47,
+        "step_label": "skills_application"
+    },
+    {
+        "slice_nr": 48,
+        "step_label": "retraction_collision_avoidance"
+    },
+    {
+        "slice_nr": 49,
+        "step_label": "suturing"
+    },
+    {
+        "slice_nr": 50,
+        "step_label": "skills_application"
+    },
+    {
+        "slice_nr": 51,
+        "step_label": "rectal_artery_vein"
+    },
+    {
+        "slice_nr": 52,
+        "step_label": "rectal_artery_vein"
+    },
+    {
+        "slice_nr": 53,
+        "step_label": "skills_application"
+    },
+    {
+        "slice_nr": 54,
+        "step_label": "retraction_collision_avoidance"
+    },
+    {
+        "slice_nr": 55,
+        "step_label": "retraction_collision_avoidance"
+    },
+    {
+        "slice_nr": 56,
+        "step_label": "rectal_artery_vein"
+    },
+    {
+        "slice_nr": 57,
+        "step_label": "suturing"
+    },
+    {
+        "slice_nr": 58,
+        "step_label": "uterine_hornother"
+    },
+    {
+        "slice_nr": 59,
+        "step_label": "skills_application"
+    },
+    {
+        "slice_nr": 60,
+        "step_label": "range_of_motion"
+    },
+    {
+        "slice_nr": 61,
+        "step_label": "uterine_hornother"
+    }
+]
